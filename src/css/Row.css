@@ -1,0 +1,36 @@
+.name-container {
+	padding: 5px 0;
+}
+.email-container {
+	padding: 5px 0 20px;
+}
+
+.row {
+	border-top: 1px blue solid;
+	display: flex;
+}
+.col-fixed-85 {
+	flex: 0 0 85px;
+}
+.col {
+	flex: 1 0;
+}
+
+.middle-center {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.align-left{
+	text-align: left;
+}
+
+.bg-red {
+	background-color: red;
+}
+.bg-green {
+	background-color: green;
+}
+.bg-yellow {
+	background-color: yellow;
+}
